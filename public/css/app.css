@@ -33,7 +33,7 @@ img {
 }
 
 .site-logo {
-  background: url(../img/site-logo.png) 50% no-repeat;
+  background: url(/img/site-logo.png) 50% no-repeat;
   background-size: cover;
   height: 120px;
   width: 120px;
